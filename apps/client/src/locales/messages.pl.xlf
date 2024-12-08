@@ -7438,6 +7438,7 @@
       </trans-unit>
       <trans-unit id="9e4b86d0c90183298e882b02d41aab3c2017f8e8" datatype="html">
         <source>Threshold range</source>
+        <target state="translated">Zakres progów</target>
         <target state="new">Threshold range</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/components/rule/rule-settings-dialog/rule-settings-dialog.html</context>
@@ -7446,6 +7447,7 @@
       </trans-unit>
       <trans-unit id="f907cfe9cf0c373052ff3964f941a5b784c57f06" datatype="html">
         <source> Ghostfolio X-ray uses static analysis to uncover potential issues and risks in your portfolio. Adjust the rules below and set custom thresholds to align with your personal investment strategy. </source>
+        <target state="translated">Ghostfolio X-ray wykorzystuje analizę statyczną do wykrywania potencjalnych problemów i zagrożeń w portfelu. Dostosuj poniższe zasady i ustaw niestandardowe progi, aby dostosować je do osobistej strategii inwestycyjnej.</target>
         <target state="new"> Ghostfolio X-ray uses static analysis to uncover potential issues and risks in your portfolio. Adjust the rules below and set custom thresholds to align with your personal investment strategy. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/x-ray/x-ray-page.component.html</context>
@@ -7454,6 +7456,7 @@
       </trans-unit>
       <trans-unit id="d3e4b4ce50139bdb8e2ba2703e5e3b2417c0c832" datatype="html">
         <source>Economic Market Cluster Risks</source>
+        <target state="translated">Ryzyko związane z klastrem rynków gospodarczych</target>
         <target state="new">Economic Market Cluster Risks</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/pages/portfolio/x-ray/x-ray-page.component.html</context>
